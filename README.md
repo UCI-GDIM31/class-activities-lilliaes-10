@@ -17,6 +17,7 @@ It worked fine after following instructions.
 ### W5
 Is vector ever overkill?
 It's basically never overkill.
+Our plan for DeerW5 is to make the class first with monoBehaviour and then make a member variable for the Transform of the object and then make the member variable for the mesh and make the serialized field so we can change it in Unity. Then, make a Start method so that we can initialize the navmesh agent with the current gameObject's mesh. Then change the start method destination of the navmesh to the transform
 
 ## Open-Source Assets
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
