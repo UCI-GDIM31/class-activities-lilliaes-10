@@ -14,6 +14,10 @@ The balls bounce too many times and become extremely bright because of their bri
 I added rigidbodies to the cat and soccerball, whereas the goal has Is Trigger on so the ball can pass through it.
 It worked fine after following instructions.
 
+### W5
+Is vector ever overkill?
+It's basically never overkill.
+
 ## Open-Source Assets
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
 - Low-poly environment: https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153 
